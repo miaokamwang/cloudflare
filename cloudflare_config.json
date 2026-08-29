@@ -1,0 +1,17 @@
+{
+    "records": [
+        {
+            "cfupdate": "yes",
+            "hostupdate": "yes",
+            "auth_email": "cf email",
+            "auth_key": "cf api key",
+            "domain": "update domain",
+            "record_name": "",
+            "ipv6_patch": "",
+            "file_patch": " ",
+            "zone_id": "",
+            "record_id": "",
+            "last_ipv6": ""
+        }
+    ]
+}
